@@ -1,0 +1,6 @@
+{
+  "name": "Modern Construction",
+  "description": "Modern architectural construction website featuring an uncropped hero scene, a 2x2 Services section with 4K time-lapse video, an About the Company section, an interactive Featured Projects carousel, a Client Testimonials showcase, a Contact Us consultation section, and a polished architectural footer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
